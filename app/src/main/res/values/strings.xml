@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskAndroidKotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_screen_2">Go to screen 2</string>
+    <string name="go_to_screen_3">go to screen 3</string>
+    <string name="masukkan_nama_anda">Masukkan Nama Anda</string>
+    <string name="go_to_screen_4">go to screen 4</string>
+    <string name="screen_3">Screen 3</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="screen_1">Screen 1</string>
+    <string name="screen_4">Screen 4</string>
+    <string name="masukkan_usia_anda">Masukkan Usia Anda</string>
+    <string name="masukkan_alamat_anda">Masukkan Alamat Anda</string>
+    <string name="masukkan_pekerjaan_anda">Masukkan Pekerjaan Anda</string>
+</resources>
